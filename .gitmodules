@@ -1,0 +1,3 @@
+[submodule "themes/3c"]
+	path = themes/3c
+	url = git@github.com:wangsijie/hexo-theme-3c
